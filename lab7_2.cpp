@@ -27,5 +27,5 @@ int main(){
     cout << name << ": ";
     getline(cin,end);
     cout << "Fahsai: 555+ see you " << time << ". Bye Bye \\(^ ^)/";
-
+    return 0;
 }
