@@ -1,2 +1,2 @@
-# NAME:ศุภพิชญ์ ไชยตาล
+# NAME:Supapit Chaitan
 # STUDENT ID:680610722
